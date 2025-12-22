@@ -12,7 +12,7 @@
 //     break;
 //   }
 
-//   console.log(`Read: ${value}`);
+//   console.log(`Read: ${value}`,);
 //   index++;
 // } while (value !== 0);
 
